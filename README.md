@@ -5,17 +5,18 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&margin-w=15&title=Commits,Experience,Repositories"
-  />
+    srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=JoaoBoll&theme=onedark&margin-w=15&title=Commits,Experience,Repositories"
+  >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=flat&margin-w=15&title=Commits,Experience,Repositories"
-  />
+    srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=JoaoBoll&margin-w=15&title=Commits,Experience,Repositories"
+  >
   <img
-    src="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=flat&margin-w=15&title=Commits,Experience,Repositories"
-    alt="GitHub Profile Trophies"
-  />
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=JoaoBoll&margin-w=15&title=Commits,Experience,Repositories"
+    alt="GitHub Profile Trophy"
+  >
 </picture>
+
 
 
 Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais. Estou empolgado em compartilhar meus trabalhos e projetos neste espaço.
