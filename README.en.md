@@ -17,6 +17,8 @@
   >
 </picture>
 
+
+
 Hello! I'm João, a Full Stack developer passionate about creating innovative and functional solutions. I'm excited to share my work and projects in this space.
 
 ## About
