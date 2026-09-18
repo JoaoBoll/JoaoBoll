@@ -54,39 +54,37 @@ Thanks for visiting!
         <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=JoaoBoll&theme=default&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=650&locale=pt_BR">
     </picture>
    <picture>
-    <source
+        <source
         media="(prefers-color-scheme: dark)"
         srcset="https://SEU-DOMINIO/api?username=JoaoBoll&show_icons=true&theme=vision-friendly-dark"
-    >
-    <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://SEU-DOMINIO/api?username=JoaoBoll&show_icons=true"
-    >
-    <img
-        width="600"
-        height="200"
-        src="https://SEU-DOMINIO/api?username=JoaoBoll&show_icons=true"
-        alt="GitHub Stats"
-    >
-</picture>
-
-<picture>
-    <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://SEU-DOMINIO/api/top-langs/?username=JoaoBoll&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"
-    >
-    <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://SEU-DOMINIO/api/top-langs/?username=JoaoBoll&size_weight=0.15&count_weight=0.5&layout=compact"
-    >
-    <img
-        width="400"
-        height="200"
-        src="https://SEU-DOMINIO/api/top-langs/?username=JoaoBoll&size_weight=0.15&count_weight=0.5&layout=compact"
-        alt="Top Languages"
-    >
-</picture>
-
+        >
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://SEU-DOMINIO/api?username=JoaoBoll&show_icons=true"
+        >
+        <img
+            width="600"
+            height="200"
+            src="https://SEU-DOMINIO/api?username=JoaoBoll&show_icons=true"
+            alt="GitHub Stats"
+        >
+    </picture>
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://SEU-DOMINIO/api/top-langs/?username=JoaoBoll&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"
+        >
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://SEU-DOMINIO/api/top-langs/?username=JoaoBoll&size_weight=0.15&count_weight=0.5&layout=compact"
+        >
+        <img
+            width="400"
+            height="200"
+            src="https://SEU-DOMINIO/api/top-langs/?username=JoaoBoll&size_weight=0.15&count_weight=0.5&layout=compact"
+            alt="Top Languages"
+        >
+    </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg">
